@@ -1,0 +1,23 @@
+/Users/tayloreke/Sites/plotter/gen/tay/Plotter/R.java \
+ : /Users/tayloreke/Sites/plotter/res/drawable/icon.png \
+/Users/tayloreke/Sites/plotter/res/drawable-hdpi/ic_launcher.png \
+/Users/tayloreke/Sites/plotter/res/drawable-hdpi/icon.png \
+/Users/tayloreke/Sites/plotter/res/drawable-ldpi/ic_launcher.png \
+/Users/tayloreke/Sites/plotter/res/drawable-ldpi/icon.png \
+/Users/tayloreke/Sites/plotter/res/drawable-mdpi/ic_launcher.png \
+/Users/tayloreke/Sites/plotter/res/drawable-mdpi/icon.png \
+/Users/tayloreke/Sites/plotter/res/drawable-xhdpi/ic_launcher.png \
+/Users/tayloreke/Sites/plotter/res/drawable-xhdpi/icon.png \
+/Users/tayloreke/Sites/plotter/res/layout/main.xml \
+/Users/tayloreke/Sites/plotter/res/values/strings.xml \
+/Users/tayloreke/Sites/plotter/res/xml/config.xml \
+/Users/tayloreke/Sites/plotter/bin/res/drawable/icon.png \
+/Users/tayloreke/Sites/plotter/bin/res/drawable-hdpi/ic_launcher.png \
+/Users/tayloreke/Sites/plotter/bin/res/drawable-hdpi/icon.png \
+/Users/tayloreke/Sites/plotter/bin/res/drawable-ldpi/ic_launcher.png \
+/Users/tayloreke/Sites/plotter/bin/res/drawable-ldpi/icon.png \
+/Users/tayloreke/Sites/plotter/bin/res/drawable-mdpi/ic_launcher.png \
+/Users/tayloreke/Sites/plotter/bin/res/drawable-mdpi/icon.png \
+/Users/tayloreke/Sites/plotter/bin/res/drawable-xhdpi/ic_launcher.png \
+/Users/tayloreke/Sites/plotter/bin/res/drawable-xhdpi/icon.png \
+/Users/tayloreke/Sites/plotter/bin/AndroidManifest.xml \
