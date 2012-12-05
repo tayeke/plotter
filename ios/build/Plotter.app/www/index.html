@@ -18,19 +18,32 @@
     under the License.
 -->
 <html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <meta name="format-detection" content="telephone=no" />
-        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
-        <link rel="stylesheet" type="text/css" href="css/bin/index.css" />
-        <title>Plotter let's you tally the episodes you've already watched of your favorite series</title>
-    </head>
-    <body>
-        <div class="app">
-            <h1>Plotter</h1>
-        </div>
-        <script type="text/javascript" src="cordova-2.2.0.js"></script>
-        <script type="text/javascript" src="js/bin/index.js"></script>
-    </body>
-</html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+    <link rel="stylesheet" type="text/css" href="css/ratchet.css" />
+    <link rel="stylesheet" type="text/css" href="css/bin/index.css" />
+    <title>Plotter let's you tally the episodes you've already watched of your favorite series</title>
+  </head>
+  <body>
+    <header class="bar-title">
+      <h1 class="title">Plotter</h1>
+    </header>
 
+    <!-- this is what scrolls -->
+    <div class="content">
+      <ul class="list" id="shows">
+      </ul>
+      <form id="newShow">
+        <input type="text" name="show_title" />
+        <input type="submit" value="Create Series" />
+      </form>
+    </div>
+      
+    <script type="text/javascript" src="cordova-2.2.0.js"></script>
+    <script type="text/javascript" src="js/bin/plugins.js"></script>
+    <script type="text/javascript" src="js/bin/index.js"></script>
+    <script src="http://debug.phonegap.com/target/target-script-min.js#plotter"></script>
+  </body>
+</html>

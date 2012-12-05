@@ -35,8 +35,11 @@
 /Users/tayloreke/Sites/plotter/android/assets/www/css/bin/index.css \
 /Users/tayloreke/Sites/plotter/android/assets/www/js/bin \
 /Users/tayloreke/Sites/plotter/android/assets/www/js/index.coffee \
+/Users/tayloreke/Sites/plotter/android/assets/www/js/jquery.js \
+/Users/tayloreke/Sites/plotter/android/assets/www/js/plugins.js \
 /Users/tayloreke/Sites/plotter/android/assets/www/js/ratchet.js \
 /Users/tayloreke/Sites/plotter/android/assets/www/js/bin/index.js \
+/Users/tayloreke/Sites/plotter/android/assets/www/js/bin/plugins.js \
 /Users/tayloreke/Sites/plotter/android/assets/www/res/icon \
 /Users/tayloreke/Sites/plotter/android/assets/www/res/screen \
 /Users/tayloreke/Sites/plotter/android/assets/www/res/icon/android \
