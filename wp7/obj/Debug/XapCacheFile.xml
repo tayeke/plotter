@@ -1,4 +1,4 @@
-﻿<xapCache source="C:\Users\Odango\Documents\GitHub\plotter\wp7\Bin\Debug\Plotter.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="12/5/2012 10:20:00 AM">
+﻿<xapCache source="C:\Users\Odango\Documents\GitHub\plotter\wp7\Bin\Debug\Plotter.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="12/5/2012 10:26:12 AM">
   <file source="C:\Users\Odango\Documents\GitHub\plotter\wp7\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="11/14/2012 3:25:38 PM" />
   <file source="C:\Users\Odango\Documents\GitHub\plotter\wp7\Background.png" archivePath="Background.png" lastWriteTime="11/14/2012 2:48:26 PM" />
   <file source="C:\Users\Odango\Documents\GitHub\plotter\wp7\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="11/14/2012 2:48:26 PM" />
@@ -7,10 +7,10 @@
   <file source="C:\Users\Odango\Documents\GitHub\plotter\wp7\www\cordova-2.2.0.js" archivePath="www\cordova-2.2.0.js" lastWriteTime="11/14/2012 2:48:26 PM" />
   <file source="C:\Users\Odango\Documents\GitHub\plotter\wp7\www\css\bin\index.css" archivePath="www\css\bin\index.css" lastWriteTime="11/14/2012 3:23:45 PM" />
   <file source="C:\Users\Odango\Documents\GitHub\plotter\wp7\www\img\logo.png" archivePath="www\img\logo.png" lastWriteTime="11/14/2012 2:48:26 PM" />
-  <file source="C:\Users\Odango\Documents\GitHub\plotter\wp7\www\js\bin\index.js" archivePath="www\js\bin\index.js" lastWriteTime="11/14/2012 3:23:56 PM" />
+  <file source="C:\Users\Odango\Documents\GitHub\plotter\wp7\www\js\bin\index.js" archivePath="www\js\bin\index.js" lastWriteTime="12/5/2012 10:25:39 AM" />
   <file source="C:\Users\Odango\Documents\GitHub\plotter\wp7\cordovalib\resources\notification-beep.wav" archivePath="cordovalib\resources\notification-beep.wav" lastWriteTime="11/14/2012 2:48:26 PM" />
-  <file source="C:\Users\Odango\Documents\GitHub\plotter\wp7\CordovaSourceDictionary.xml" archivePath="CordovaSourceDictionary.xml" lastWriteTime="12/5/2012 10:20:00 AM" />
-  <file source="C:\Users\Odango\Documents\GitHub\plotter\wp7\www\index.html" archivePath="www\index.html" lastWriteTime="11/14/2012 3:24:04 PM" />
+  <file source="C:\Users\Odango\Documents\GitHub\plotter\wp7\CordovaSourceDictionary.xml" archivePath="CordovaSourceDictionary.xml" lastWriteTime="12/5/2012 10:26:12 AM" />
+  <file source="C:\Users\Odango\Documents\GitHub\plotter\wp7\www\index.html" archivePath="www\index.html" lastWriteTime="12/5/2012 10:25:39 AM" />
   <file source="C:\Users\Odango\Documents\GitHub\plotter\wp7\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="11/14/2012 2:48:26 PM" />
   <file source="C:\Users\Odango\Documents\GitHub\plotter\wp7\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="11/14/2012 3:25:38 PM" />
 </xapCache>
