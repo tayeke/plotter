@@ -2,7 +2,6 @@ class App
   # Application Constructor
   constructor: ->
       @.shows = []
-      @.bindEvents()
   # Bind Event Listeners
   #
   # Bind any events that are required on startup. Common events are:
@@ -96,4 +95,4 @@ class Show
     @.$el.remove()
 
 #start app
-app = new App
+@app = new App
