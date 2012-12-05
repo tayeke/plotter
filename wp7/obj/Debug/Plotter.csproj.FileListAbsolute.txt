@@ -16,3 +16,21 @@ c:\users\odango\documents\visual studio 2010\Projects\Plotter\Plotter\obj\Debug\
 c:\users\odango\documents\visual studio 2010\Projects\Plotter\Plotter\obj\Debug\Plotter.dll
 c:\users\odango\documents\visual studio 2010\Projects\Plotter\Plotter\obj\Debug\Plotter.pdb
 c:\users\odango\documents\visual studio 2010\Projects\Plotter\Plotter\obj\Debug\XapCacheFile.xml
+C:\Users\Odango\Documents\GitHub\plotter\wp7\Bin\Debug\ApplicationIcon.png
+C:\Users\Odango\Documents\GitHub\plotter\wp7\Bin\Debug\Background.png
+C:\Users\Odango\Documents\GitHub\plotter\wp7\Bin\Debug\Plotter.dll
+C:\Users\Odango\Documents\GitHub\plotter\wp7\Bin\Debug\Plotter.pdb
+C:\Users\Odango\Documents\GitHub\plotter\wp7\Bin\Debug\AppManifest.xaml
+C:\Users\Odango\Documents\GitHub\plotter\wp7\Bin\Debug\Plotter.xap
+C:\Users\Odango\Documents\GitHub\plotter\wp7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Odango\Documents\GitHub\plotter\wp7\obj\Debug\App.g.i.cs
+C:\Users\Odango\Documents\GitHub\plotter\wp7\obj\Debug\cordovalib\CordovaView.g.i.cs
+C:\Users\Odango\Documents\GitHub\plotter\wp7\obj\Debug\cordovalib\UI\AudioRecorder.g.i.cs
+C:\Users\Odango\Documents\GitHub\plotter\wp7\obj\Debug\cordovalib\UI\ImageCapture.g.i.cs
+C:\Users\Odango\Documents\GitHub\plotter\wp7\obj\Debug\cordovalib\UI\NotificationBox.g.i.cs
+C:\Users\Odango\Documents\GitHub\plotter\wp7\obj\Debug\cordovalib\UI\VideoRecorder.g.i.cs
+C:\Users\Odango\Documents\GitHub\plotter\wp7\obj\Debug\MainPage.g.i.cs
+C:\Users\Odango\Documents\GitHub\plotter\wp7\obj\Debug\Plotter.g.resources
+C:\Users\Odango\Documents\GitHub\plotter\wp7\obj\Debug\Plotter.dll
+C:\Users\Odango\Documents\GitHub\plotter\wp7\obj\Debug\Plotter.pdb
+C:\Users\Odango\Documents\GitHub\plotter\wp7\obj\Debug\XapCacheFile.xml
