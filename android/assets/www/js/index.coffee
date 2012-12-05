@@ -36,8 +36,11 @@ class App
     console.log "Received Event: #{id}"
   getAllShows: =>
     selection = @.database.getItem 'shows'
-    all_shows = JSON.parse selection
-    @.addShow(show) for show in all_shows
+    if selection
+      all_shows = JSON.parse selection
+      @.addShow(show) for show in all_shows
+    else
+      @.shows = []
   addShow: (_show) =>
     @.shows.push new Show(_show)
   removeShow: (_show) =>
@@ -52,11 +55,10 @@ class App
       episode: 1
     @.shows.push new Show(new_show)
     @.storeShows()
-  updateShow: (show) =>
-    @.shows[show.id] = show
-    @.storeShows()
   storeShows: =>
-    @.database.setItem 'shows', JSON.stringify(@.shows)
+    data = []
+    data.push(show.attributes) for show in @.shows
+    @.database.setItem 'shows', JSON.stringify(data)
   dataError: (err) =>
     alert "Sorry there was an error processing data: #{err.code} : #{err.msg}"
   dataSuccess: =>
@@ -76,10 +78,10 @@ class Show
       app.removeShow @
   increment: (param) =>
     @.attributes[param] += 1
-    app.updateShow @.attributes
+    app.storeShows()
   decrement: (param) =>
     @.attributes[param] -= 1
-    app.updateShow @.attributes
+    app.storeShows()
   render: =>
     @.$el.html("<a href=\"#\">#{@.attributes.title}<span class=\"chevron\"></span></a>")
     $('#shows').append @.$el
